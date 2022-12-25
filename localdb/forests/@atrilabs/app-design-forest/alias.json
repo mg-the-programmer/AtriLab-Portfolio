@@ -1,0 +1,21 @@
+{
+  "Button": 6,
+  "Countdown": 2,
+  "Div": 11,
+  "Flex": 210,
+  "Accordion": 2,
+  "Input": 1,
+  "Upload": 1,
+  "Image": 45,
+  "Carousel": 4,
+  "Dropdown": 1,
+  "Checkbox": 2,
+  "CandleStick": 1,
+  "Link": 16,
+  "TextBox": 277,
+  "Menu": 1,
+  "Icon": 28,
+  "Step": 2,
+  "Slider": 1,
+  "Testimonial": 1
+}
